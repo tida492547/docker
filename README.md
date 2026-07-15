@@ -1,4 +1,3 @@
-# 🐳 Docker
 
 > **Containerization Platform** · ปล่อยออกมาในปี 2013 โดย Docker Inc.
 
