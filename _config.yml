@@ -1,2 +1,4 @@
 title: Docker
 description: An open platform for developing, shipping, and running applications in containers.
+theme: jekyll-theme-cayman
+show_downloads: false
